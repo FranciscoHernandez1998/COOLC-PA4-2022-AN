@@ -1,4 +1,4 @@
-# COOLC-PA4-2022
+# COOLC-2022
 
 Inside each folder you will find the code explained in class that provides a starting point for each phase of the compiler. Keep in mind that:
 
